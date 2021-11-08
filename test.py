@@ -1,5 +1,7 @@
 import sqlite3
 
+# 병수 메롱롱
+
 try:
 
     conn = sqlite3.connect("record (2).db", isolation_level=None)
